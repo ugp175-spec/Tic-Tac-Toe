@@ -43,7 +43,7 @@ new1.addEventListener("click",()=>
     {
         p.innerText = "";
     }
-
+    count  = 0;
     wld1.innerText = "";
 
     
