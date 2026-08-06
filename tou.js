@@ -62,6 +62,7 @@ const cheackwin = ()=>
             if(position1 === position2 && position2 === position3)
             {
                 wld1.innerText = `${position1} is Winner`;
+                count = 0;
                 disa();
                 return 1;
                 
